@@ -1,0 +1,53 @@
+body {
+  margin: o px;
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+}
+section {
+  display: flex;
+}
+.brishty img {
+  width: 500px;
+  height: 500px;
+  padding: 80px;
+  padding-top: 5%;
+}
+.brishty h2 {
+  color: blue;
+}
+.brishty2 {
+  padding: 30px;
+}
+.brishty a {
+  padding: 10px;
+  background-image: linear-gradient(red, yellow);
+}
+
+
+.brishty3 img {
+  width: 500px;
+  height: 500px;
+  padding: 80px;
+  padding-top: 5%;
+}
+.brishty3 h2 {
+  color: blue;
+}
+.brishty4 {
+  padding: 30px;
+}
+.brishty3 a {
+  padding: 10px;
+  background-image: linear-gradient(rgb(204, 0, 255), rgb(0, 247, 255));
+}
+.brishty5 {
+  display: flex;
+  text-align: center;
+
+}
+.brishty6{
+    padding: 50px;
+}
+brishty7{
+    padding: 50px;
+}
